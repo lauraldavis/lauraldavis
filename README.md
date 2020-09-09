@@ -10,7 +10,7 @@ Here are some ideas to get you started:-->
 <!-- - 👯 I’m looking to collaborate on ...-->
 <!-- - 🤔 I’m looking for help with ...-->
 - 💬 Ask me about the Codeup web development program
-- 📫 How to reach me: by LinkedIn InMail
+- 📫 How to reach me: LinkedIn InMail
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I'm a lapidarist
+- ⚡ Fun fact: I'm an amateur lapidarist (cut and polish gemstones) and metalsmith
 
