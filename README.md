@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on job hunting, and on version 2 of my Codeup capstone project - WILLing
-- 🌱 I’m currently learning ES6 by redoing 101 JS Exercises, this time in ES6
+- 🔭 I’m currently working on new features to add to my Codeup capstone project - WILLing
+<!-- - 🌱 I’m currently learning ...-->
 <!-- - 👯 I’m looking to collaborate on ...-->
 <!-- - 🤔 I’m looking for help with ...-->
 - 💬 Ask me about the Codeup web development program
