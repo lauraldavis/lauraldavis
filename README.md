@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on new features to add to my Codeup capstone project - WILLing
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently working on building out AWS cloud infrastructure and configuring malware analysis plugins (work project)
+- 🌱 I’m currently learning data structures and algorithms (to gain more in-depth understanding)
 <!-- - 👯 I’m looking to collaborate on ...-->
 <!-- - 🤔 I’m looking for help with ...-->
 - 💬 Ask me about the Codeup web development program
